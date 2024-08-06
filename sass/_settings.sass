@@ -1,0 +1,235 @@
+*
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+html
+    scroll-behavior: smooth
+
+img
+    max-width: 100%
+    height: auto
+
+body
+    font-size: 22px
+    line-height: 36px
+    font-family: 'OpenSans', sans-serif
+    font-style: normal
+    font-weight: 400
+    color: #453d37
+    background: #f8f4ef
+
+
+.button
+    font-family: 'OpenSans', sans-serif
+    font-weight: 700
+    font-size: 18px
+    line-height: 21px
+    text-align: center
+    color: #fff
+    transition: 0.3s
+    cursor: pointer
+    text-decoration: none
+    border: none
+    background: #2077ED
+    border-radius: 8px
+    padding: 13px 0
+    text-transform: uppercase
+    display: flex
+    align-items: center
+    justify-content: center
+    gap: 17px
+    width: 100%
+    max-width: 360px
+    &:hover
+        background: #3589fd
+    &--effect
+        position: relative
+        overflow: hidden
+        &:hover
+            transform: none
+        &::after
+            content: ''
+            position: absolute
+            width: 100%
+            height: 200%
+            transform: translateY(-50%)
+            background: linear-gradient( to right top, transparent 29%, rgba(255, 255, 255, 0.8) 29% 32%, transparent 32% 35%, rgba(255, 255, 255, 0.8) 35% 40%, transparent 42% 45%, rgba(67, 66, 66, 0.7) 45% 55%, transparent 55% 58%, rgba(255, 255, 255, 0.8) 58% 61%, transparent 61%)
+            opacity: 0.3
+            left: 0
+            top: 0
+            transition: 0.8s
+            z-index: 3
+            animation: toRight 6s infinite
+
+.input
+    width: 100%
+    padding: 18px
+    border-radius: 8px
+    border: 1px solid #2F354D33
+    background: transparent
+    color: #2F354D
+    font-family: 'Roboto', sans-serif
+    font-size: 16px
+    line-height: 17px
+    font-style: normal
+    font-weight: 400
+    &:focus
+        outline: none
+    &::placeholder
+        color: #2F354D66
+
+.input-group
+    width: 100%
+    position: relative
+
+.politics
+    display: flex
+    gap: 15px
+    cursor: pointer
+    align-items: center
+    a
+        color: #2F354D
+    &__input
+        display: none
+        &:checked + .politics__ok
+            &::before
+                display: block
+    &__text
+        font-weight: 400
+        font-size: 15px
+        line-height: 16px
+        color: #2F354D
+        text-align: left
+    &__ok
+        min-width: 23px
+        width: 23px
+        height: 23px
+        border: 2px solid #2F354D
+        border-radius: 3px
+        position: relative
+        background: #fff
+        &::before
+            content: ''
+            position: absolute
+            left: 50%
+            top: 50%
+            transform: translate(-50%, -50%)
+            width: 12px
+            height: 9px
+            background: url('../img/ok.svg') no-repeat center/contain
+            display: none
+
+.img-box
+    display: flex
+    align-items: center
+    justify-content: center
+
+.text
+    font-family: "OpenSans", sans-serif
+    font-size: 22px
+    line-height: 36px
+    color: #453d37
+    font-weight: 400
+    span
+        font-family: "Vremena", sans-serif
+        font-size: 48px
+        line-height: 38px
+        color: #900707
+        font-weight: bold
+        margin-right: 5px
+
+.text-italic
+    font-family: "Vremena", sans-serif
+    font-size: 28px
+    line-height: 40px
+    font-weight: 500
+    font-style: italic
+    color: #453d37
+    padding-left: 80px
+    position: relative
+    &::before
+        content: ''
+        position: absolute
+        left: 0
+        top: 15px
+        width: 60px
+        height: 2px
+        background: #bd9d77
+    span
+        color: #900707
+    &--right
+        text-align: right
+        margin-top: 30px
+        font-weight: 400
+        &::before
+            display: none
+    &--quot
+        padding: 0 45px 0 50px
+        &::before
+            display: none
+    &__quot
+        font-size: 90px
+        line-height: 42px
+        font-weight: 500
+        font-style: italic
+        font-family: "Vremena", sans-serif
+        color: #453d37
+        height: min-content
+        &--red
+            color: #900707
+        &--1
+            position: absolute
+            left: -10px
+            top: 14px
+        &--2
+            position: absolute
+            right: 10px
+            bottom: -30px
+
+.text-gold
+    background: linear-gradient(90deg, #b18b6c 0%, #f7d2b4 42%, #b79070 100%)
+    -webkit-background-clip: text
+    -webkit-text-fill-color: transparent
+
+//.textarea
+//    resize: none
+//    width: 100%
+//    padding: 18px 30px
+//    border: 1px solid #DDB093
+//    border-radius: 11px
+//    background: #fff
+//    font-style: normal
+//    font-weight: 300
+//    font-size: 25px
+//    line-height: 25px
+//    text-transform: uppercase
+//    color: rgba(14, 14, 14, 0.5)
+//    &:focus
+//        outline: none
+//
+//.label
+//    font-weight: 500
+//    font-size: 16px
+//    line-height: 120%
+//    text-shadow: 0px 3.27986px 40.9982px rgba(0, 0, 0, 0.05)
+//    display: block
+//    margin-bottom: 14px
+//
+//.select
+//    border: 0.409982px solid #000000
+//    border-radius: 6px
+//    padding: 23px
+//    appearance: none
+//    -moz-appearance: none
+//    -webkit-appearance: none
+//    position: relative
+//    width: 100%
+//    &:focus
+//        outline: none
+//
+//.option
+//    font-weight: 500
+//    font-size: 16.3993px
+//    line-height: 120%
+//    opacity: 0.5
+//    text-shadow: 0px 3.27986px 40.9982px rgba(0, 0, 0, 0.05)

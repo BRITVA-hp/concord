@@ -1,0 +1,39 @@
+//OpenSans
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans/OpenSans-Bold.woff') format('woff'), url('../fonts/OpenSans/OpenSans-Bold.woff2') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans/OpenSans-Regular.woff') format('woff'), url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans/OpenSans-SemiBold.woff') format('woff'), url('../fonts/OpenSans/OpenSans-SemiBold.woff2') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+//Vremena
+@font-face {
+    font-family: 'Vremena';
+    src: url('../fonts/Vremena/VremenaBookItalic.woff') format('woff'), url('../fonts/Vremena/VremenaBookItalic.woff2') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Vremena';
+    src: url('../fonts/Vremena/VremenaMedium.woff') format('woff'), url('../fonts/Vremena/VremenaMedium.woff2') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Vremena';
+    src: url('../fonts/Vremena/VremenaMediumItalic.woff') format('woff'), url('../fonts/Vremena/VremenaMediumItalic.woff2') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}

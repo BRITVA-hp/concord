@@ -611,132 +611,132 @@ body {
 }
 @keyframes noise-anim {
   0% {
-    clip: rect(10px, 9999px, 77px, 0);
+    clip: rect(73px, 9999px, 21px, 0);
   }
   5% {
-    clip: rect(99px, 9999px, 71px, 0);
+    clip: rect(66px, 9999px, 78px, 0);
   }
   10% {
-    clip: rect(59px, 9999px, 12px, 0);
+    clip: rect(24px, 9999px, 8px, 0);
   }
   15% {
-    clip: rect(99px, 9999px, 80px, 0);
+    clip: rect(15px, 9999px, 79px, 0);
   }
   20% {
-    clip: rect(78px, 9999px, 68px, 0);
+    clip: rect(22px, 9999px, 96px, 0);
   }
   25% {
-    clip: rect(13px, 9999px, 56px, 0);
+    clip: rect(87px, 9999px, 80px, 0);
   }
   30% {
-    clip: rect(100px, 9999px, 84px, 0);
+    clip: rect(61px, 9999px, 68px, 0);
   }
   35% {
-    clip: rect(57px, 9999px, 97px, 0);
+    clip: rect(56px, 9999px, 67px, 0);
   }
   40% {
-    clip: rect(4px, 9999px, 72px, 0);
+    clip: rect(27px, 9999px, 41px, 0);
   }
   45% {
-    clip: rect(38px, 9999px, 80px, 0);
+    clip: rect(82px, 9999px, 36px, 0);
   }
   50% {
-    clip: rect(13px, 9999px, 76px, 0);
+    clip: rect(32px, 9999px, 14px, 0);
   }
   55% {
-    clip: rect(49px, 9999px, 33px, 0);
+    clip: rect(33px, 9999px, 26px, 0);
   }
   60% {
-    clip: rect(38px, 9999px, 27px, 0);
+    clip: rect(50px, 9999px, 47px, 0);
   }
   65% {
-    clip: rect(13px, 9999px, 4px, 0);
+    clip: rect(52px, 9999px, 43px, 0);
   }
   70% {
-    clip: rect(65px, 9999px, 98px, 0);
+    clip: rect(63px, 9999px, 17px, 0);
   }
   75% {
-    clip: rect(4px, 9999px, 100px, 0);
+    clip: rect(28px, 9999px, 5px, 0);
   }
   80% {
-    clip: rect(70px, 9999px, 74px, 0);
+    clip: rect(72px, 9999px, 23px, 0);
   }
   85% {
-    clip: rect(94px, 9999px, 1px, 0);
+    clip: rect(100px, 9999px, 38px, 0);
   }
   90% {
-    clip: rect(19px, 9999px, 72px, 0);
+    clip: rect(4px, 9999px, 3px, 0);
   }
   95% {
-    clip: rect(97px, 9999px, 36px, 0);
+    clip: rect(8px, 9999px, 5px, 0);
   }
   100% {
-    clip: rect(48px, 9999px, 53px, 0);
+    clip: rect(11px, 9999px, 42px, 0);
   }
 }
 @keyframes noise-anim-2 {
   0% {
-    clip: rect(30px, 9999px, 62px, 0);
+    clip: rect(76px, 9999px, 13px, 0);
   }
   5% {
-    clip: rect(94px, 9999px, 13px, 0);
+    clip: rect(52px, 9999px, 61px, 0);
   }
   10% {
-    clip: rect(70px, 9999px, 15px, 0);
+    clip: rect(44px, 9999px, 42px, 0);
   }
   15% {
-    clip: rect(100px, 9999px, 11px, 0);
+    clip: rect(45px, 9999px, 18px, 0);
   }
   20% {
-    clip: rect(36px, 9999px, 22px, 0);
+    clip: rect(37px, 9999px, 39px, 0);
   }
   25% {
-    clip: rect(38px, 9999px, 7px, 0);
+    clip: rect(23px, 9999px, 26px, 0);
   }
   30% {
-    clip: rect(24px, 9999px, 18px, 0);
+    clip: rect(67px, 9999px, 74px, 0);
   }
   35% {
-    clip: rect(43px, 9999px, 4px, 0);
+    clip: rect(32px, 9999px, 1px, 0);
   }
   40% {
-    clip: rect(100px, 9999px, 1px, 0);
+    clip: rect(85px, 9999px, 1px, 0);
   }
   45% {
-    clip: rect(34px, 9999px, 81px, 0);
+    clip: rect(28px, 9999px, 74px, 0);
   }
   50% {
-    clip: rect(98px, 9999px, 77px, 0);
+    clip: rect(54px, 9999px, 95px, 0);
   }
   55% {
-    clip: rect(30px, 9999px, 10px, 0);
+    clip: rect(69px, 9999px, 79px, 0);
   }
   60% {
-    clip: rect(76px, 9999px, 51px, 0);
+    clip: rect(73px, 9999px, 99px, 0);
   }
   65% {
-    clip: rect(31px, 9999px, 3px, 0);
+    clip: rect(28px, 9999px, 4px, 0);
   }
   70% {
-    clip: rect(29px, 9999px, 37px, 0);
+    clip: rect(10px, 9999px, 56px, 0);
   }
   75% {
-    clip: rect(17px, 9999px, 32px, 0);
+    clip: rect(70px, 9999px, 84px, 0);
   }
   80% {
-    clip: rect(36px, 9999px, 12px, 0);
+    clip: rect(37px, 9999px, 15px, 0);
   }
   85% {
-    clip: rect(62px, 9999px, 44px, 0);
+    clip: rect(25px, 9999px, 71px, 0);
   }
   90% {
-    clip: rect(93px, 9999px, 95px, 0);
+    clip: rect(46px, 9999px, 92px, 0);
   }
   95% {
-    clip: rect(48px, 9999px, 21px, 0);
+    clip: rect(61px, 9999px, 11px, 0);
   }
   100% {
-    clip: rect(29px, 9999px, 87px, 0);
+    clip: rect(94px, 9999px, 15px, 0);
   }
 }
 @keyframes pulse {
@@ -935,7 +935,7 @@ body {
 }
 
 .section2 {
-  background: url("../img/section2/bg.png") no-repeat center/cover;
+  background: url("../img/section2/bg.webp") no-repeat center/cover;
   padding: 135px 20px;
 }
 .section2__row {
@@ -953,10 +953,10 @@ body {
 
 .section3 {
   padding: 130px 20px 320px;
-  background: url("../img/section3/bg.png") no-repeat center bottom/cover;
+  background: url("../img/section3/bg.webp") no-repeat center bottom/cover;
 }
 .section3__box {
-  max-width: 698px;
+  max-width: 700px;
   margin: auto;
 }
 .section3__text {
@@ -968,7 +968,7 @@ body {
 
 .section4 {
   padding: 140px 20px 150px;
-  background: url("../img/section4/bg.png") no-repeat center bottom;
+  background: url("../img/section4/bg.webp") no-repeat center bottom;
 }
 .section4__title {
   margin-bottom: 60px;
@@ -996,7 +996,7 @@ body {
 
 .section5 {
   padding: 160px 20px;
-  background: url("../img/section5/bg.png") no-repeat right bottom/cover;
+  background: url("../img/section5/bg.webp") no-repeat right bottom/cover;
 }
 .section5__title {
   margin-bottom: 50px;
@@ -1012,7 +1012,7 @@ body {
 
 .section6 {
   padding: 130px 20px 180px;
-  background: url("../img/section6/bg.png") no-repeat center bottom/cover;
+  background: url("../img/section6/bg.webp") no-repeat center bottom/cover;
 }
 .section6__row {
   display: flex;
@@ -1031,7 +1031,7 @@ body {
 
 .section7 {
   padding: 160px 20px 180px;
-  background: url("../img/section7/bg.png") no-repeat center bottom/cover;
+  background: url("../img/section7/bg.webp") no-repeat center bottom/cover;
 }
 .section7__box {
   max-width: 660px;
@@ -1048,7 +1048,7 @@ body {
 
 .section8 {
   padding: 150px 20px 390px;
-  background: url("../img/section8/bg.png") no-repeat center bottom/cover;
+  background: url("../img/section8/bg.webp") no-repeat center bottom/cover;
 }
 .section8__row {
   display: flex;
@@ -1064,7 +1064,7 @@ body {
 
 .section9 {
   padding: 155px 20px 175px;
-  background: url("../img/section9/bg.png") no-repeat center bottom;
+  background: url("../img/section9/bg.webp") no-repeat center bottom;
 }
 .section9__box {
   max-width: 635px;
@@ -1081,7 +1081,7 @@ body {
 
 .section10 {
   padding: 140px 20px;
-  background: url("../img/section10/bg.png") no-repeat center/cover;
+  background: url("../img/section10/bg.webp") no-repeat center/cover;
 }
 .section10__row {
   display: flex;
@@ -1094,7 +1094,7 @@ body {
 
 .section11 {
   padding: 190px 20px;
-  background: url("../img/section11/bg.png") no-repeat center bottom;
+  background: url("../img/section11/bg.webp") no-repeat center bottom/cover;
 }
 .section11__title {
   margin-bottom: 50px;
@@ -1111,7 +1111,7 @@ body {
 
 .section12 {
   padding: 130px 20px 240px;
-  background: url("../img/section12/bg.png") no-repeat center/cover;
+  background: url("../img/section12/bg.webp") no-repeat center/cover;
 }
 .section12__row {
   display: flex;
@@ -1130,7 +1130,7 @@ body {
 
 .section13 {
   padding: 150px 20px 170px;
-  background: url("../img/section13/bg.png") no-repeat center bottom/cover;
+  background: url("../img/section13/bg.webp") no-repeat center bottom/cover;
 }
 .section13__title {
   margin-bottom: 55px;
@@ -1149,7 +1149,7 @@ body {
 
 .section14 {
   padding: 150px 20px 244px;
-  background: url("../img/section14/bg.png") no-repeat center/cover;
+  background: url("../img/section14/bg.webp") no-repeat center/cover;
 }
 .section14__title {
   margin-bottom: 75px;
@@ -1168,7 +1168,7 @@ body {
 
 .section15 {
   padding: 140px 20px 180px;
-  background: url("../img/section15/bg.png") no-repeat center bottom/cover;
+  background: url("../img/section15/bg.webp") no-repeat center bottom/cover;
 }
 .section15__row {
   display: flex;
@@ -1190,7 +1190,7 @@ body {
 
 .section16 {
   padding: 165px 20px 180px;
-  background: url("../img/section16/bg.png") no-repeat center bottom;
+  background: url("../img/section16/bg.webp") no-repeat center bottom;
 }
 .section16__title {
   margin-bottom: 40px;
@@ -1214,7 +1214,7 @@ body {
 
 .section17 {
   padding: 140px 20px 190px;
-  background: url("../img/section17/bg.png") no-repeat center bottom;
+  background: url("../img/section17/bg.webp") no-repeat center bottom;
 }
 .section17__title {
   margin-bottom: 54px;
@@ -1233,7 +1233,7 @@ body {
 
 .section18 {
   padding: 150px 20px 360px;
-  background: url("../img/section18/bg.png") no-repeat center bottom;
+  background: url("../img/section18/bg.webp") no-repeat center bottom;
 }
 .section18__row {
   display: flex;
@@ -1572,17 +1572,8 @@ body {
   .section12__box {
     max-width: 500px;
   }
-  .section4__top {
-    flex-direction: column;
-    gap: 30px;
-  }
   .section4__box {
-    width: 100%;
-    max-width: none;
-  }
-  .section4__bot {
-    flex-direction: column;
-    gap: 30px;
+    max-width: 550px;
   }
   .section2__text, .section2__text-italic {
     max-width: 550px;
@@ -1665,7 +1656,7 @@ body {
 @media screen and (max-width: 1200px) {
   .section18 {
     padding: 80px 20px 500px;
-    background: url("../img/section18/bg.png") no-repeat center bottom/1200px;
+    background: url("../img/section18/bg.webp") no-repeat center bottom/1200px;
   }
   .section18__row {
     flex-direction: column;
@@ -1676,8 +1667,21 @@ body {
   .section18__box {
     max-width: none;
   }
+  .section17 {
+    background: url("../img/section17/bg.webp") no-repeat center bottom/1200px;
+    padding: 80px 20px 380px;
+  }
+  .section17__container {
+    max-width: 700px;
+  }
+  .section17__box {
+    max-width: none;
+  }
+  .section17__row {
+    flex-direction: column;
+  }
   .section16 {
-    background: url("../img/section16/bg.png") no-repeat right bottom/1200px;
+    background: url("../img/section16/bg.webp") no-repeat right bottom/1200px;
     padding: 80px 20px 450px;
   }
   .section16__container {
@@ -1695,7 +1699,7 @@ body {
     max-width: none;
   }
   .section15 {
-    background: url("../img/section15/bg.png") no-repeat center bottom/1200px;
+    background: url("../img/section15/bg.webp") no-repeat center bottom/1200px;
     padding: 80px 20px 550px;
   }
   .section15__container {
@@ -1707,12 +1711,24 @@ body {
   .section15__box {
     max-width: none;
   }
+  .section14 {
+    background: url("../img/section14/bg.webp") no-repeat center bottom;
+  }
+  .section14__box {
+    max-width: none;
+  }
+  .section14__container {
+    max-width: 700px;
+  }
+  .section14__row {
+    flex-direction: column;
+  }
   .section13 {
-    background: url("../img/section13/bg.png") no-repeat center bottom/1200px;
+    background: url("../img/section13/bg.webp") no-repeat center bottom/1200px;
     padding: 80px 20px 400px;
   }
   .section13__container {
-    max-width: 900px;
+    max-width: 700px;
   }
   .section13__row {
     flex-direction: column;
@@ -1720,6 +1736,15 @@ body {
   }
   .section13__box {
     max-width: none;
+  }
+  .section12__box {
+    max-width: none;
+  }
+  .section12__row {
+    flex-direction: column;
+    max-width: 700px;
+    margin: auto;
+    gap: 30px;
   }
   .section10__row {
     max-width: 700px;
@@ -1730,7 +1755,7 @@ body {
     max-width: none;
   }
   .section8 {
-    background: url("../img/section8/bg.png") no-repeat center bottom;
+    background: url("../img/section8/bg.webp") no-repeat center bottom;
   }
   .section8__row {
     max-width: 700px;
@@ -1742,7 +1767,7 @@ body {
   }
   .section6 {
     padding: 70px 20px 500px;
-    background: url("../img/section6/bg.png") no-repeat center bottom/1200px;
+    background: url("../img/section6/bg.webp") no-repeat center bottom/1200px;
   }
   .section6__row {
     flex-direction: column;
@@ -1751,6 +1776,30 @@ body {
   }
   .section6__box {
     max-width: none;
+  }
+  .section5__container {
+    max-width: 700px;
+  }
+  .section5__row {
+    flex-direction: column;
+  }
+  .section4 {
+    background: url("../img/section4/bg.webp") no-repeat center calc(100% - 300px), linear-gradient(to top, #2c1919 300px, transparent 300px);
+  }
+  .section4__container {
+    max-width: 700px;
+  }
+  .section4__top {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .section4__box {
+    width: 100%;
+    max-width: none;
+  }
+  .section4__bot {
+    flex-direction: column;
+    gap: 30px;
   }
   .section2 {
     padding: 75px 20px;
@@ -1805,31 +1854,6 @@ body {
   }
 }
 @media screen and (max-width: 1100px) {
-  .section17 {
-    background: url("../img/section17/bg.png") no-repeat center bottom/1100px;
-    padding: 80px 20px 350px;
-  }
-  .section17__container {
-    max-width: 700px;
-  }
-  .section17__box {
-    max-width: none;
-  }
-  .section17__row {
-    flex-direction: column;
-  }
-  .section14 {
-    background: url("../img/section14/bg.png") no-repeat center bottom;
-  }
-  .section14__box {
-    max-width: none;
-  }
-  .section14__container {
-    max-width: 700px;
-  }
-  .section14__row {
-    flex-direction: column;
-  }
   .header__link {
     padding: 8px 10px;
     font-size: 18px;
@@ -1873,7 +1897,7 @@ body {
   }
   .section18 {
     padding: 50px 20px 420px;
-    background: url("../img/section18/bg.png") no-repeat center bottom/991px;
+    background: url("../img/section18/bg.webp") no-repeat center bottom/991px;
   }
   .section18__row {
     gap: 30px;
@@ -1885,7 +1909,7 @@ body {
     margin-bottom: 30px;
   }
   .section17 {
-    background: url("../img/section17/bg.png") no-repeat center bottom/991px;
+    background: url("../img/section17/bg.webp") no-repeat center bottom/991px;
     padding: 50px 20px 320px;
   }
   .section17__row {
@@ -1899,7 +1923,7 @@ body {
   }
   .section16 {
     padding: 50px 20px 380px;
-    background: url("../img/section16/bg.png") no-repeat right bottom/991px;
+    background: url("../img/section16/bg.webp") no-repeat right bottom/991px;
   }
   .section16__title {
     margin-bottom: 30px;
@@ -1913,7 +1937,7 @@ body {
   }
   .section15 {
     padding: 50px 20px 430px;
-    background: url("../img/section15/bg.png") no-repeat center bottom/991px;
+    background: url("../img/section15/bg.webp") no-repeat center bottom/991px;
   }
   .section15__title {
     margin-bottom: 30px;
@@ -1929,7 +1953,7 @@ body {
   }
   .section14 {
     padding: 50px 20px 180px;
-    background: url("../img/section14/bg.png") no-repeat calc(50% - 80px) bottom/1150px;
+    background: url("../img/section14/bg.webp") no-repeat calc(50% - 80px) bottom/1150px;
   }
   .section14__title {
     margin-bottom: 30px;
@@ -1939,7 +1963,7 @@ body {
   }
   .section13 {
     padding: 50px 20px 320px;
-    background: url("../img/section13/bg.png") no-repeat center bottom/991px;
+    background: url("../img/section13/bg.webp") no-repeat center bottom/991px;
   }
   .section13__title {
     margin-bottom: 30px;
@@ -1952,23 +1976,14 @@ body {
   }
   .section12 {
     padding: 50px 20px 200px;
-    background: url("../img/section12/bg.png") no-repeat calc(50% - 120px) bottom;
-  }
-  .section12__row {
-    flex-direction: column;
-    max-width: 700px;
-    margin: auto;
-    gap: 30px;
+    background: url("../img/section12/bg.webp") no-repeat calc(50% - 120px) bottom;
   }
   .section12__text--1 {
     margin-bottom: 30px;
   }
-  .section12__box {
-    max-width: none;
-  }
   .section11 {
     padding: 80px 20px;
-    background: url("../img/section11/bg.png") no-repeat center bottom/cover;
+    background: url("../img/section11/bg.webp") no-repeat center bottom/cover;
   }
   .section11__box {
     max-width: 400px;
@@ -1987,7 +2002,7 @@ body {
   }
   .section9 {
     padding: 55px 20px 450px;
-    background: url("../img/section9/bg.png") no-repeat right bottom/991px;
+    background: url("../img/section9/bg.webp") no-repeat right bottom/991px;
   }
   .section9__title {
     margin-bottom: 25px;
@@ -2000,14 +2015,14 @@ body {
   }
   .section8 {
     padding: 45px 20px 220px;
-    background: url("../img/section8/bg.png") no-repeat center bottom/991px;
+    background: url("../img/section8/bg.webp") no-repeat center bottom/991px;
   }
   .section8__row {
     gap: 30px;
   }
   .section7 {
     padding: 60px 20px 550px;
-    background: url("../img/section7/bg.png") no-repeat right bottom/991px;
+    background: url("../img/section7/bg.webp") no-repeat right bottom/991px;
   }
   .section7__container {
     max-width: 700px;
@@ -2026,7 +2041,7 @@ body {
     margin-bottom: 30px;
   }
   .section6 {
-    background: url("../img/section6/bg.png") no-repeat center bottom/991px;
+    background: url("../img/section6/bg.webp") no-repeat center bottom/991px;
     padding-bottom: 400px;
   }
   .section6__row {
@@ -2046,7 +2061,7 @@ body {
   }
   .section4 {
     padding: 60px 20px 80px;
-    background: url("../img/section4/bgM.png") no-repeat center calc(50% + 300px);
+    background: url("../img/section4/bgM.webp") no-repeat center calc(50% + 300px);
   }
   .section4__container {
     max-width: 700px;
@@ -2058,17 +2073,14 @@ body {
     margin-bottom: 280px;
   }
   .section3 {
-    padding: 75px 20px 180px;
-  }
-  .section3__box {
-    max-width: 500px;
+    padding: 75px 20px 220px;
   }
   .section3__text {
     margin-bottom: 35px;
   }
   .main {
     padding: 25px 20px 520px;
-    background: url("../img/main/bgM.png") no-repeat right bottom;
+    background: url("../img/main/bgM.webp") no-repeat right bottom;
   }
   .main__path {
     margin-bottom: 40px;
@@ -2136,43 +2148,40 @@ body {
 }
 @media screen and (max-width: 767px) {
   .main {
-    background: url("../img/main/bgM.png") no-repeat calc(50% - 150px) bottom;
+    background: url("../img/main/bgM.webp") no-repeat calc(50% - 150px) bottom;
   }
   .img {
     height: 310px;
   }
   .section18 {
     padding: 50px 20px 320px;
-    background: url("../img/section18/bg.png") no-repeat right bottom/767px;
+    background: url("../img/section18/bg.webp") no-repeat right bottom/767px;
   }
   .section17 {
-    background: url("../img/section17/bg.png") no-repeat center bottom/767px;
+    background: url("../img/section17/bg.webp") no-repeat center bottom/767px;
     padding: 50px 20px 250px;
   }
   .section16 {
     padding: 50px 20px 290px;
-    background: url("../img/section16/bg.png") no-repeat right bottom/767px;
+    background: url("../img/section16/bg.webp") no-repeat right bottom/767px;
   }
   .section15 {
     padding: 50px 20px 350px;
-    background: url("../img/section15/bg.png") no-repeat center bottom/767px;
+    background: url("../img/section15/bg.webp") no-repeat center bottom/767px;
   }
   .section11 {
     padding: 40px 20px 300px;
-    background: url("../img/section11/bg.png") no-repeat calc(50% - 50px) bottom/900px;
+    background: url("../img/section11/bg.webp") no-repeat calc(50% - 50px) bottom/900px;
   }
   .section11__box {
     max-width: none;
   }
   .section6 {
-    background: url("../img/section6/bg.png") no-repeat center bottom/767px;
+    background: url("../img/section6/bg.webp") no-repeat center bottom/767px;
     padding-bottom: 320px;
   }
   .section5 {
-    background: url("../img/section5/bg.png") no-repeat calc(50% - 400px) bottom/cover;
-  }
-  .section5__row {
-    flex-direction: column;
+    background: url("../img/section5/bg.webp") no-repeat calc(50% - 400px) bottom/cover;
   }
   .footer__bot__box {
     gap: 6px;
@@ -2209,14 +2218,14 @@ body {
 @media screen and (max-width: 575px) {
   .section9 {
     padding-bottom: 320px;
-    background: url("../img/section9/bg.png") no-repeat right bottom/650px;
+    background: url("../img/section9/bg.webp") no-repeat right bottom/650px;
   }
   .section7 {
     padding: 60px 20px 320px;
-    background: url("../img/section7/bgM.png") no-repeat center bottom;
+    background: url("../img/section7/bgM.webp") no-repeat center bottom;
   }
   .section6 {
-    background: url("../img/section6/bg.png") no-repeat calc(50% + 30px) bottom/650px;
+    background: url("../img/section6/bg.webp") no-repeat calc(50% + 30px) bottom/650px;
     padding-bottom: 270px;
   }
 }
